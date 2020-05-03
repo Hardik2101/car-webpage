@@ -1,0 +1,60 @@
+ul li
+{
+	display: inline-block;
+	color: white;
+	padding: 20px 10px;
+}
+ul{
+	background-color: black;
+	height: 50px;
+}
+ul li input
+{
+	border-radius: 20px;
+}
+ ul li button
+ {
+ 	background-color: orange;
+ 	border :2px solid orange ;
+
+ }
+ .box1
+ {
+ 	height: 200px;
+ 	width: 33.33%;
+ 	float: left;
+ 	border-radius: 200px;
+ }
+ .box2
+ {
+ 	height: 200px;
+ 	width: 33.33%;
+ 	float:left;
+ }
+ .box3
+ {
+ 	height: 200px;
+ 	width: 33.33%;
+ 	float:left;
+ }
+ .container
+ {
+ 	background-color: grey;
+ 	height:550px;
+ }
+ .box1 img
+ {
+ 	border-radius: 20px;
+ }
+ .box2 img
+ {
+ 	border-radius: 20px;
+ }
+ .box3 img
+ {
+ 	border-radius: 20px;
+ }
+ ul li:hover{
+ 	color: red;
+
+ }
